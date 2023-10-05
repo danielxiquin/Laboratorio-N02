@@ -1,0 +1,4 @@
+C:\Users\DANIEL\source\repos\lab2DanielXiquin1118423\lab2DanielXiquin1118423\x64\Debug\lab2DanielXiquin1118423.vcxproj.AssemblyReference.cache
+C:\Users\DANIEL\source\repos\lab2DanielXiquin1118423\lab2DanielXiquin1118423\x64\Debug\lab2DanielXiquin1118423.MyForm.resources
+C:\Users\DANIEL\source\repos\lab2DanielXiquin1118423\lab2DanielXiquin1118423\x64\Debug\lab2DanielXiquin1118423.vcxproj.GenerateResource.cache
+C:\Users\DANIEL\source\repos\lab2DanielXiquin1118423\lab2DanielXiquin1118423\x64\Debug\lab2DanielXiquin1118423.SecondaryForm.resources
